@@ -1,0 +1,24 @@
+{
+  "name": "@zubair-ahmed-balouch/cli-number-guessing-game",
+  "version": "2.0.0",
+  "description": "This is a cli based numbers guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zubair-ahmed-balouch/cli-number-guessing-game": "^2.0.0",
+    "apna-cli-number-guessing-game": "^2.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
